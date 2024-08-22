@@ -1,0 +1,5 @@
+streamlit run main.py
+
+Or
+
+python -m streamlit run main.py
